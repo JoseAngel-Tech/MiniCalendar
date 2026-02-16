@@ -28,7 +28,7 @@ The application runs with a remote cloud database and supports real multi-device
 
 <p align="center">
   <em>Main calendar view in "Month" mode, showcasing the event heatmap and organization.</em><br><br>
-  <img src="screenshots/vista_mes_principal.png" alt="MiniCalendar Dashboard" width="85%">
+  <img src="screenshots/dashboard_month_view.png" alt="MiniCalendar Dashboard" width="85%">
 </p>
 
 ---
