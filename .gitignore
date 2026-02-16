@@ -1,0 +1,33 @@
+# Variables entorno
+.env
+.env.*
+
+# Credenciales sensibles
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build / ejecutables
+dist/
+build/
+*.exe
+*.spec
+
+# Logs
+*.log
+
+# Scripts temporales con datos sensibles
+fix_login.py
+prueba.py
+
+# Datos de usuario (Archivos adjuntos)
+adjuntos/*
+!adjuntos/.gitkeep
+
+# Configuraciones de editor
+.vscode/
+.idea/
